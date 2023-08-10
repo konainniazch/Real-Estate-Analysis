@@ -1,6 +1,6 @@
 # Real-Estate-Analysis
 
-This repository is a part of my project on analysing and predicting real estate land properties in Lahore. 
+This repository is for my project on analysing and predicting real estate land properties in Lahore. 
 
 zameen.com was scraped for all plot holdings in Lahore. The python file for this is All Properties Scrape.pdf
 
